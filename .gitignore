@@ -90,3 +90,11 @@ ENV/
 
 # Databases
 *.sqlite3
+
+# IDE
+.idea/
+
+# Archives
+*.zip
+*.gz
+*.tar
